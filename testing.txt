@@ -1,1 +1,1 @@
-This application uses viTest for testing. Please add new tests for the new component using viTest.
+This application uses viTest for testing. Please add new tests for the new component using viTest, cover all the common uses cases.
